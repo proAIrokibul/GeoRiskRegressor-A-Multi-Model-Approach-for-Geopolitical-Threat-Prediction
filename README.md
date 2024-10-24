@@ -1,4 +1,4 @@
-## Geopolitical Risk Dataset: Predicting Geopolitical Threat Using Machine Learning
+# Geopolitical Risk Dataset: Predicting Geopolitical Threat Using Machine Learning
 
 ### Overview
 This project aims to predict the `GPRD_THREAT` (Geopolitical Risk Threat) using various machine learning models. The dataset contains geopolitical risk metrics over time and other related factors. Three different machine learning models were applied, and their performances were compared: **Linear Regression**, **Random Forest Regressor**, and **XGBoost Regressor**.
